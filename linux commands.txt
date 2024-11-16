@@ -1,0 +1,40 @@
+1) ls = listing
+
+ls -l = For long listing in vertical mode
+
+ls -lrth === (To know which file has been recently accessed or modified)
+
+2) pwd - present working directory (Folder)
+ 
+3) cd  - Change Drive 
+
+4) touch - to  make an empty file
+
+5) date = to get the date and time
+
+6) cal = calendar
+
+7) history -- to know the history of particular terminal
+
+8) df -kh -- to know the free space on your disk , k = Kilo byte, h= Human readble
+
+9) mv = to move any file or dir
+
+10) cp = to copy any file or dir
+
+11) vi 
+
+two mode --- 1) Insert Mode 2) Escape Mode 
+
+:wq == to save your changed into file
+
+12) cat = to view the file
+
+13) grep ==  global regular expression print
+
+grep -i
+grep -v
+
+14) rm -- to remove or delete any file or dir
+
+
